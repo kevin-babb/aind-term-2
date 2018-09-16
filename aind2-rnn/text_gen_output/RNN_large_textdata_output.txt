@@ -1,0 +1,20 @@
+-------------------
+input chars = 
+history.  i promise, said holmes.  and i.  you will excuse this mask, continued our strange visitor."
+predicted chars = 
+ nees placed with his finder, that he had been heard of a dread. i can see of all, as no marain it. "
+-------------------
+input chars = 
+ it is all right, said the stranger with deference. still, i confess that i miss my rubber. it is th"
+predicted chars = 
+e enther of myself, said in his end case of his chair and the comman which he came for a sile and di"
+-------------------
+input chars = 
+o, cried holmes, shoving him back into the chair from which he had half risen. i really wouldn t mis"
+predicted chars = 
+s the did beforest that i could him at the strange, as at man whomed the lame the cound of the back "
+-------------------
+input chars = 
+ro in front of the house, this marriage rather simplifies matters. the photograph becomes a double e"
+predicted chars = 
+d erveny connintice from that she had been sutted and suldeng its stang before and shattered to his "
